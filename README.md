@@ -1,3 +1,5 @@
+> **Archived (2026).** The Solana leg is paused; this scanner is kept as a reference implementation and is not operated as a service.
+
 # Solana x402 Endpoint Scanner
 
 Open-source scanner that discovers and maps x402 machine-to-machine payment endpoints on Solana mainnet. Part of the [SmartFlow](https://smartflowproai.com) Agent Payment Intelligence infrastructure.
@@ -73,7 +75,7 @@ The scanner identifies x402 endpoints by:
 ## Integration
 
 This scanner feeds data into the SmartFlow ecosystem:
-- **Dashboard**: [smartflowproai.com/solana](https://smartflowproai.com/solana/)
+
 - **Main mapper**: 21,792+ endpoints across Base, Solana, and other chains
 - **Quality scoring**: Endpoint health, payment validity, uptime monitoring
 
